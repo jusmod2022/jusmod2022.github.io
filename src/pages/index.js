@@ -50,6 +50,7 @@ export default function Home() {
           </ul>
           <h3 id="dates">Important Dates</h3>
           <ul>
+            <li>Abstract submission: 8 June 2022</li>
             <li>Paper submission: 15 June 2022</li>
             <li>Author notification: 14 July 2022</li>
             <li>Camera-ready: 31 July 2022</li>
@@ -69,7 +70,7 @@ export default function Home() {
           </ul>
           
           <p>
-          The authors must submit manuscripts using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer style for Lecture Notes in Computer Science</a>. Papers must be submitted as PDF files via EasyChair.
+          The authors must submit manuscripts using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer style for Lecture Notes in Computer Science</a>. Papers must be submitted as PDF files via <a href="https://easychair.org/conferences/?conf=jusmod22">EasyChair</a>.
          </p>
          <p> Accepted papers are expected to be presented at the conference and at least one author is required to register to the conference. 
          </p>
@@ -80,18 +81,18 @@ export default function Home() {
          The organization of a journal special issue about the workshop topics is currently under consideration. The authors of workshop accepted papers will be invited to submit an extended contribution to the special issue (if confirmed).
          </p>
 
-          {/* <div>
+          <div>
             <a
-              href="/"
+              href="https://easychair.org/conferences/?conf=jusmod22"
               class="button"
               target="_blank"
               rel="noreferrer"
             >
               Submit a paper
             </a>
-          </div> */}
+          </div>
 
-          <h3 id="organization">Organization</h3>
+          <h3 id="organization">Chairs and Organization</h3>
           <ul>
             <li>
               <div>
@@ -138,7 +139,7 @@ export default function Home() {
             </li>
           </ul>
 
-          <h3>Program Committee (Tentative)</h3>
+          <h3>Program Committee</h3>
           <ul>
             <li>Tommaso Agnoloni, ITTIG, CNR, Italy </li>
             <li>Daniel Amyot, University of Otawa, Canada</li>
