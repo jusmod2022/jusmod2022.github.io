@@ -119,7 +119,7 @@ export default function Home() {
                 </a>
                 , Free University of Bozen-Bolzano, Italy
               </div>
-              <div>mattia.falduti [at] unibz.it</div>
+              <div>cristine.griffo [at] unibz.it</div>
             </li>
             <li>
               <div>
