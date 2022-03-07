@@ -157,6 +157,7 @@ export default function Home() {
             <li>Nicola Guarino, LOA, Italy</li>
             <li>Giancarlo Guizzardi, Free University of Bolzano, Italy</li>
             <li>João O. Lima, Prodasen-Brazilian Senate, Brazil</li>
+            <li>Juliana Justo Castello, Vitória Law School, Brazil</li>
             <li>Samuela Marchiori, University of Twente, the Nederlands </li>
             <li>Elio Masciari, Università degli Studi di Napoli Federico II, Italy</li>
             <li>Florian Mathes, Technische Universität München, Germany</li>
