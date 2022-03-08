@@ -142,42 +142,27 @@ export default function Home() {
           <h3>Program Committee</h3>
           <ul>
             <li>Tommaso Agnoloni, ITTIG, CNR, Italy </li>
-            <li>Daniel Amyot, University of Otawa, Canada</li>
             <li>João Paulo A. Andrade, Federal University of Espírito Santo, Brazil</li>
             <li>Lauro Araujo, Prodasen-Brazilian Senate, Brazil</li>
             <li>Jean-Remi Bourguet, University of Vila Velha, Brazil</li>
             <li>Samuel M. Brasil Jr., National School of the Judiciary (ENFAM), Brazil</li>
             <li>Daniel Braun, University of Twente, The Netherlands</li>
-            <li>Colette R. Brunschwig, University of Zurich</li>
-            <li>Mirna El-Gosh, INSA du Rouen, France</li>
-            <li>Hans-Georg Fill, University of Fribourg</li>
-            <li>Sergio Flesca, University of Calabria, Italy</li>
             <li>Enrico Francesconi,  ITTIG, CNR, Italy</li>
             <li>Matthias Grabmair, Technische Universität München, Germany</li>
-            <li>Nicola Guarino, LOA, Italy</li>
             <li>Giancarlo Guizzardi, Free University of Bolzano, Italy</li>
             <li>João O. Lima, Prodasen-Brazilian Senate, Brazil</li>
             <li>Juliana Justo Castello, Vitória Law School, Brazil</li>
+            <li>Juliano Maranhão, São Paulo University, Brazil</li>
             <li>Samuela Marchiori, University of Twente, the Nederlands </li>
-            <li>Elio Masciari, Università degli Studi di Napoli Federico II, Italy</li>
-            <li>Florian Mathes, Technische Universität München, Germany</li>
-            <li>Zoran Milosevic, Deontik, Australia</li>
-            <li>John Mylopoulos, University of Ottawa, Canada</li>
             <li>Robert Muthuri,  Strathmore University </li>
             <li>Elias Oliveira, Federal University of Espírito Santo, Brazil</li>
-            <li>Matteo Palmonari, University of Milano-Bicocca, Italy</li>
             <li>Anca Radu, European University Institute (EUI), Italy</li>
             <li>Aires Rover, Federal University of Santa Catarina, Brazil</li>
-            <li>Giovanni Sartor, European University Institute (EUI), Italy</li>
             <li>Jaromir Savelka, Carnegie Mellon University, USA</li>
             <li>Giovanni Sileno, University of Amsterdam, The Netherlands</li>
             <li>Paolo Sommaggio, Faculty of Law, University of Trento, Italy</li>
-            <li>Andrea Tagarelli, University of Calabria, Italy</li>
             <li>Maria das Graças Teixeira, Federal University of Espírito Santo, Brazil</li>
             <li>Sergio Tessaris, Free University of Bozen-Bolzano, Italy</li>
-            <li>Serena Villata, CNRS, France</li>
-            <li>Roland Voegl, CodeX, Stanford University, EUA</li>
-            <li>Ester Zumpano, University of Calabria, Italy</li>
           </ul>
 
         </div>
