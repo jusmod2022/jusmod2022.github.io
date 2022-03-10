@@ -141,7 +141,7 @@ export default function Home() {
 
           <h3>Program Committee</h3>
           <ul>
-            <li>Tommaso Agnoloni, ITTIG, CNR, Italy </li>
+            <li>Tommaso Agnoloni, IGSG, CNR, Italy </li>
             <li>João Paulo A. Andrade, Federal University of Espírito Santo, Brazil</li>
             <li>Lauro Araujo, Prodasen-Brazilian Senate, Brazil</li>
             <li>Jean-Remi Bourguet, University of Vila Velha, Brazil</li>
