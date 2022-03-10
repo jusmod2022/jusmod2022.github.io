@@ -147,7 +147,6 @@ export default function Home() {
             <li>Jean-Remi Bourguet, University of Vila Velha, Brazil</li>
             <li>Samuel M. Brasil Jr., National School of the Judiciary (ENFAM), Brazil</li>
             <li>Daniel Braun, University of Twente, The Netherlands</li>
-            <li>Enrico Francesconi,  ITTIG, CNR, Italy</li>
             <li>Matthias Grabmair, Technische Universität München, Germany</li>
             <li>Giancarlo Guizzardi, Free University of Bolzano, Italy</li>
             <li>João O. Lima, Prodasen-Brazilian Senate, Brazil</li>
