@@ -147,7 +147,6 @@ export default function Home() {
             <li>Jean-Remi Bourguet, University of Vila Velha, Brazil</li>
             <li>Samuel M. Brasil Jr., National School of the Judiciary (ENFAM), Brazil</li>
             <li>Daniel Braun, University of Twente, The Netherlands</li>
-            <li>Matteo Palmonari, Università di Milano-Bicocca, Italy</li>
             <li>Matthias Grabmair, Technische Universität München, Germany</li>
             <li>Giancarlo Guizzardi, Free University of Bolzano, Italy</li>
             <li>João O. Lima, Prodasen-Brazilian Senate, Brazil</li>
@@ -156,6 +155,7 @@ export default function Home() {
             <li>Samuela Marchiori, University of Twente, the Nederlands </li>
             <li>Robert Muthuri,  Strathmore University </li>
             <li>Elias Oliveira, Federal University of Espírito Santo, Brazil</li>
+            <li>Matteo Palmonari, Università di Milano-Bicocca, Italy</li>
             <li>Anca Radu, European University Institute (EUI), Italy</li>
             <li>Aires Rover, Federal University of Santa Catarina, Brazil</li>
             <li>Jaromir Savelka, Carnegie Mellon University, USA</li>
