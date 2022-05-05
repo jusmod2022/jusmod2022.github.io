@@ -143,7 +143,17 @@ export default function Home() {
           
           <ul>
             <li><b>Enrico Francesconi</b></li>
-            Legal Knowledge Representation and Reasoning in the Semantic Web
+            <p>
+            Title:
+            Legal Knowledge Representation and Reasoning in the Semantic Web         
+            </p>
+            <p>
+            Abstract:
+            Machine readable, actionable rules represent a precondition for developing systems endowed with automatic reasoning facilities for advanced information services in the legal domain. In this talk we present an approach for legal knowledge representation and reasoning within a Semantic Web framework. It is based on the distinction between provisions and norms and it is able to provide advanced reasoning facilities for advanced legal information retrieval (like implementing Hohfedian reasoning) and legal compliance checking for deontic notions. It is also shown how the approach can handle norm defeasibility. Such methodology is implemented by decidable fragments of OWL 2, while legal reasoning is implemented by available decidable reasoners.
+            </p>
+
+
+            
           </ul>
           
 
