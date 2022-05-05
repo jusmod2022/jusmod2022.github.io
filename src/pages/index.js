@@ -139,6 +139,11 @@ export default function Home() {
             </li>
           </ul>
 
+          <h3>Keynote</h3>
+          <p>
+          TBA
+          </p>
+
           <h3>Program Committee</h3>
           <ul>
             <li>Tommaso Agnoloni, IGSG, CNR, Italy </li>
