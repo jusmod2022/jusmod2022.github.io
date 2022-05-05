@@ -142,7 +142,7 @@ export default function Home() {
           <h3>Keynote</h3>
           
           <ul>
-            <li><b>Enrico Francesconi</b></li>
+            <li><b>href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</b></li>
             <p>
             Title:
             Legal Knowledge Representation and Reasoning in the Semantic Web         
