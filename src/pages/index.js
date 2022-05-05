@@ -140,9 +140,12 @@ export default function Home() {
           </ul>
 
           <h3>Keynote</h3>
-          <p>
-          TBA
-          </p>
+          
+          <ul>
+            <li><b>Enrico Francesconi</b></li>
+            Legal Knowledge Representation and Reasoning in the Semantic Web
+          </ul>
+          
 
           <h3>Program Committee</h3>
           <ul>
