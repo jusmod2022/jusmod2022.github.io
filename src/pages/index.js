@@ -51,7 +51,7 @@ export default function Home() {
           <h3 id="dates">Important Dates</h3>
           <ul>
             <li>Abstract submission: 8 June 2022</li>
-            <li>Paper submission: 15 June 2022</li>
+            <li>Paper submission: EXTENDED 22 June 2022</li>
             <li>Author notification: 14 July 2022</li>
             <li>Camera-ready: 31 July 2022</li>
             <li>Workshop: 17-20 October 2022 (exact date to be defined)</li>
