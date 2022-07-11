@@ -162,7 +162,7 @@ export default function Home() {
             <li>Tommaso Agnoloni, IGSG, CNR, Italy </li>
             <li>João Paulo A. Andrade, Federal University of Espírito Santo, Brazil</li>
             <li>Lauro Araujo, Prodasen-Brazilian Senate, Brazil</li>
-            <li>Jean-Remi Bourguet, University of Vila Velha, Brazil</li>
+            <li>Jean-Rémi Bourguet, University of Vila Velha, Brazil</li>
             <li>Samuel M. Brasil Jr., National School of the Judiciary (ENFAM), Brazil</li>
             <li>Daniel Braun, University of Twente, The Netherlands</li>
             <li>Mirna El Ghosh, National Institute of Applied Sciences of Rouen, France</li>
@@ -180,8 +180,10 @@ export default function Home() {
             <li>Jaromir Savelka, Carnegie Mellon University, USA</li>
             <li>Giovanni Sileno, University of Amsterdam, The Netherlands</li>
             <li>Paolo Sommaggio, Faculty of Law, University of Trento, Italy</li>
+            <li>Andrea Tagarelli, Università della Calabria, Italy</li>
             <li>Maria das Graças Teixeira, Federal University of Espírito Santo, Brazil</li>
             <li>Sergio Tessaris, Free University of Bozen-Bolzano, Italy</li>
+            <li>Ester Zumpano, Università della Calabria, Italy</li>
           </ul>
 
         </div>
