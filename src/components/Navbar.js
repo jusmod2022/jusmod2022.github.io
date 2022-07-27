@@ -37,6 +37,14 @@ export default function Navbar() {
                 stripHash
               />
             </li>
+            <li>
+              <AnchorLink
+                to="/#camera"
+                title="Camera-ready Instructions"
+                className="stripped"
+                stripHash
+              />
+            </li>
           </ul>
         </nav>
       </div>

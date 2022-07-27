@@ -186,6 +186,27 @@ export default function Home() {
             <li>Ester Zumpano, Università della Calabria, Italy</li>
           </ul>
 
+          <h3 id="camera"> Camera-ready Instructions</h3>
+
+          <p>
+          Please, follow these instructions for preparation of the camera-ready versions of accepted papers:
+          </p>
+
+          <ul>
+              <li>Upload the PDF file of the final version on <a href="https://easychair.org/conferences/?conf=jusmod22">Easychair</a> using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer style for Lecture Notes in Computer Science</a> provided for the initial submission. Using this template is mandatory. Deadline: <b>August 5 2022</b>.</li>
+
+              <li>Send an email to <a href="mailto:jusmod22@islab.di.unimi.it?subject=source%20files%20for%20JUSMOD%20submission%20%23paper-id">jusmod22@islab.di.unimi.it</a> with subject <i>source files for JUSMOD submission #paper-id</i> by attaching all the submission file sources as a zip archive. Deadline: <b>August 5 2022</b>.</li>
+
+              <li>Upload a signed copyright form according to the <a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19790018/data/SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland">Springer Licence to Publish</a>. <b>Detailed istructions on how to fill-in the copyright form will be provided as soon as available</b>.</li>
+
+              <li>Register to the ER 2022 conference. At least one author registration (<i>authors registration fee</i>) is required per paper. Please, follow the instructions at the <a href="https://er2022web.github.io/ER2022/registration.html">ER 2022 website</a>.</li>
+
+          </ul>
+
+          <p>
+          Please, write to <a href="mailto:jusmod22@islab.di.unimi.it">jusmod22@islab.di.unimi.it</a> for any question.
+          </p>
+
         </div>
       </section>
     </Layout>
