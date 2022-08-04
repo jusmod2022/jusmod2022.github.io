@@ -203,10 +203,10 @@ export default function Home() {
             <li><i>Proceedings Editors</i>: Renata Guizzardi and Bernd Neumayr</li>
             </ul>
             Deadline: <b>August 10 2022</b>.
-           </li>
-          <li>Register to the ER 2022 conference. At least one author registration (<i>authors registration fee</i>) is required per paper. Please, follow the instructions at the <a href="https://er2022web.github.io/ER2022/registration.html">ER 2022 website</a>.</li>
+               </li>
+               <li>Register to the ER 2022 conference. At least one author registration (<i>authors registration fee</i>) is required per paper. Please, follow the instructions at the <a href="https://er2022web.github.io/ER2022/registration.html">ER 2022 website</a>. Deadline: <b>August 22 2022</b></li>.
 
-        </ul>
+            </ul>
           <p>
           Please, write to <a href="mailto:jusmod22@islab.di.unimi.it">jusmod22@islab.di.unimi.it</a> for any question.
           </p>
