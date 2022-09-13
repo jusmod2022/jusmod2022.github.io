@@ -18,7 +18,7 @@ export default function Home() {
           </p>
 
           <h3 id="program">Program</h3>
-          <h3>17th October 2022 ICT</h3>
+          <h3>17th October 2022 IST</h3>
 
           <ul>
             
