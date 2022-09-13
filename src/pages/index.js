@@ -17,12 +17,13 @@ export default function Home() {
             , Hyderabad, India, 17-20 October, 2022.
           </p>
 
-          <h2>Program</h2>
+          <h3 id="program">Program</h3>
+          <h3>17th October 2022</h3>
 
           <ul>
-            <li>Date: 17th October 2022</li>
+            
             <li>14:30 - 14:45 - Welcome session</li>
-            <li>14:45 - 15:30 - Keynote session: Legal Knowledge Representation and Reasoning in the Semantic Web <a href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</a></li>
+            <li>14:45 - 15:30 - Keynote session: Legal Knowledge Representation and Reasoning in the Semantic Web by <a href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</a></li>
             </ul>
 
             <h3>Session 1: Legal Knowledge Representation</h3>

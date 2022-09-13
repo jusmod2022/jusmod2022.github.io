@@ -11,6 +11,15 @@ export default function Navbar() {
         </Link>
         <nav>
           <ul>
+          <li>
+              <AnchorLink
+                to="/#program"
+                title="Program"
+                className="stripped"
+                stripHash
+              />
+            </li>
+            
             <li>
               <AnchorLink
                 to="/#dates"
@@ -19,6 +28,7 @@ export default function Navbar() {
                 stripHash
               />
             </li>
+
 
             <li>
               <AnchorLink
