@@ -26,7 +26,7 @@ export default function Home() {
             <li>14:45 - 15:30 - Keynote session (Chair: Silvana Castanto): Legal Knowledge Representation and Reasoning in the Semantic Web by <a href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</a></li>
             </ul>
 
-            <h3>Session 1 (Chair: Cristine Griffo): Legal Knowledge Representation</h3>
+            <h3>Session 1 (Chair: Tiago Prince Sales): Legal Knowledge Representation</h3>
             <ul>
             <li>15:30 - 15:50 - A Rule 74 for Italian judges (Giulia Pinotti, Federica Fazio and Amedeo Santosuosso)</li>
             <li>15:50 - 16:10 - On the Lack of Legal Regulation in Conceptual Modeling (Kai von Lewinski and Stefanie Scherzinger)</li>
