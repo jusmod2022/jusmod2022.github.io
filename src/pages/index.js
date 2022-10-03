@@ -22,18 +22,18 @@ export default function Home() {
 
           <ul>
             
-            <li>14:30 - 14:45 - Welcome session</li>
-            <li>14:45 - 15:30 - Keynote session: Legal Knowledge Representation and Reasoning in the Semantic Web by <a href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</a></li>
+            <li>14:30 - 14:45 - Welcome session (Chair: Silvana Castanto)</li> 
+            <li>14:45 - 15:30 - Keynote session (Chair: Silvana Castanto): Legal Knowledge Representation and Reasoning in the Semantic Web by <a href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</a></li>
             </ul>
 
-            <h3>Session 1: Legal Knowledge Representation</h3>
+            <h3>Session 1 (Chair: Cristine Griffo): Legal Knowledge Representation</h3>
             <ul>
             <li>15:30 - 15:50 - A Rule 74 for Italian judges (Giulia Pinotti, Federica Fazio and Amedeo Santosuosso)</li>
             <li>15:50 - 16:10 - On the Lack of Legal Regulation in Conceptual Modeling (Kai von Lewinski and Stefanie Scherzinger)</li>
             <li>16:10 - 16:30 - coffee break</li>
           </ul>
 
-          <h3>Session 2: Legal Knowledge Extraction</h3>
+          <h3>Session 2 (Chair: Cristine Griffo): Legal Knowledge Extraction</h3>
             <ul>
             <li>16:30 - 16:50 - Unsupervised factor extraction from pretrial detention decisions by Italian and Brazilian Supreme Courts (Isabela Cristina Sabo, Marco Billi, Francesca Lagioia, Giovanni Sartor and Aires José Rover)</li>
             <li>16:50 - 17:10 - Context-Aware Knowledge Extraction from Legal Documents through Zero-Shot Classification (Alfio Ferrara, Sergio Picascia and Davide Riva)</li>
