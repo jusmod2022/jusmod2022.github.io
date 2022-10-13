@@ -22,8 +22,8 @@ export default function Home() {
 
           <ul>
             
-            <li>14:30 - 14:45 - Welcome session (Chair: Silvana Castanto)</li> 
-            <li>14:45 - 15:30 - Keynote session (Chair: Silvana Castanto): Legal Knowledge Representation and Reasoning in the Semantic Web by <a href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</a></li>
+            <li>14:30 - 14:45 - Welcome session (Chair: Silvana Castano)</li> 
+            <li>14:45 - 15:30 - Keynote session (Chair: Silvana Castano): Legal Knowledge Representation and Reasoning in the Semantic Web by <a href="https://www.linkedin.com/in/enrico-francesconi-4754958/"> Enrico Francesconi</a></li>
             </ul>
 
             <h3>Session 1 (Chair: Tiago Prince Sales): Legal Knowledge Representation</h3>
